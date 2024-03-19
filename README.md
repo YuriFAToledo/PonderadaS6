@@ -6,6 +6,10 @@ Em um mundo onde a precisão da informação pode salvar vidas, a aplicação de
 
 Nesse contexto, o aprendizado contínuo não é apenas um complemento; é uma necessidade. A evolução constante do conhecimento médico exige uma plataforma capaz de se adaptar e aprender com cada interação. A habilidade de um chatbot para atualizar seu conhecimento através de avaliações contínuas e feedback dos usuários assegura que as informações fornecidas permaneçam precisas e clinicamente relevantes. Esta atualização constante é o cerne da nossa solução proposta.
 
+## Representação Visual
+
+!["texto alternativo"](Diagrama_de_Sequencia.jpg)
+
 ## Descrição dos Blocos e Funcionamento do Sistema
 
 ### Frontend
